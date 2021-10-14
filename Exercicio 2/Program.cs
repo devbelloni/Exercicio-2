@@ -7,7 +7,7 @@ namespace Exercicio_2 {
 
             Console.WriteLine("Entre com seu nome completo.");
             string nome = Console.ReadLine();
-            Console.WriteLine("Quantos quartos tem a sua casa?");
+            Console.WriteLine("Quantos quartos tem a sua casa.");
             int n = int.Parse(Console.ReadLine());
             Console.WriteLine("Entre com o preço de um produto.");
             double p = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
