@@ -23,6 +23,8 @@ namespace Exercicio_2 {
             Console.WriteLine(nom);
             Console.WriteLine(idade);
             Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
+            
+            % teste
 
 
         }
